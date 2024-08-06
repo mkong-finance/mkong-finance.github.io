@@ -210,10 +210,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _Research
   - scope:
       path: ""
-      type: publications
+      type: Research
     values:
       layout: single
       author_profile: true
