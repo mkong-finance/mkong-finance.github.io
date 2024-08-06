@@ -174,11 +174,11 @@ collections:
     output: true
     permalink: /publications/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
+    permalink: /talks/
 
 
 # Defaults
@@ -203,7 +203,7 @@ defaults:
       author_profile: true
   # _teaching
   - scope:
-      path: ""
+      path: /teaching/
       type: teaching
     values:
       layout: single
@@ -212,7 +212,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: /publications/
       type: publications
     values:
       layout: single
