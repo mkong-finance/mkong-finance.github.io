@@ -31,10 +31,10 @@ author:
   email            : "mingyuan.kong@baruch.cuny.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   orcid            : "http://orcid.org/yourorcidurl"
-  researchgate     : # URL
+  #researchgate     : # URL
 
      
 
@@ -210,10 +210,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _Research
+  # _publications
   - scope:
       path: ""
-      type: Research
+      type: publications
     values:
       layout: single
       author_profile: true
