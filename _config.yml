@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Mingyuan Kong"
 title_separator          : "-"
 name                     : &name "Mingyuan Kong"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://mkong-finance.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mkong-finance/mkong-finance.github.io"
@@ -32,8 +32,8 @@ author:
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "http://orcid.org/yourorcidurl"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  orcid            : #"http://orcid.org/yourorcidurl"
   #researchgate     : # URL
 
      
