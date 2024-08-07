@@ -173,9 +173,6 @@ collections:
   publications:
     output: true
     permalink: /publications/
-  portfolio:
-    output: false
-    permalink: /portfolio/
   talks:
     output: true
     permalink: /talks/
@@ -219,16 +216,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  #- scope:
-  #    path: /portfolio/
-  #    type: portfolio
-  #  values:
-  #    layout: single
-  #    author_profile: true
-  #    share: true
-  #    comment: true
-  # _talks
   - scope:
       path: /talks/
       type: talks
