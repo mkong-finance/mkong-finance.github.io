@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,11 +16,17 @@ Education
 Work experience
 ======
 * Adjunct Lecturer
-  * Baruch College, CUNY
-  * Department of Information Systems and Statistics, Department of Economics and Financ
+  * Baruch College, CUNY, Spring 2021 – Present
+  * Department of Information Systems and Statistics, Department of Economics and Finance
 
+* Research Assistant
+  * Baruch College, CUNY, August 2019 - January 2021
+  * Robert A. Schwartz Center for Trading and Financial Market Research
+
+* Research Associate
+  * Stevens Institute of Technology, June 2018 - May 2019
+  * School of Business
   
-Presentations
-======
-  
-  
+* Research Assistant
+  * Stevens Institute of Technology, August 2017 - June 2018
+  * Hanlon Financial Systems Center, School of Business
