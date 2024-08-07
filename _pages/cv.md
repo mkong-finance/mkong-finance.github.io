@@ -29,4 +29,7 @@ redirect_from:
   * Stevens Institute of Technology, August 2017 - June 2018
   * Hanlon Financial Systems Center, School of Business
 
+
+
+
 Please find [here]() an updated and detailed version of my curriculum vitae.
