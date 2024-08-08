@@ -37,6 +37,6 @@ Works in progress
 
 <p>&nbsp;</p>
 
-## CSR Disclosure under
+## CSR Disclosure under Macroeconomy Uncertainty
 
 Coauthors: Haozheng Wang
