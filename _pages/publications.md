@@ -27,6 +27,7 @@ Coauthors: Suman Banerjee
 
 - **Presentations**: 2019 FMA Annual Meeting, 2020 EFA Annual Meeting (cancelled due to Covid-19), 2020 Baruch College Brownbag Seminar, 2021 Stevens Institute of Technology SSB Brownbag, 2022 Indian Statistical Institute-Kolkata Virtual Seminar, 2023 FMA European Conference
 
+<p>&nbsp;</p>
 
 Works in progress
 ===============
