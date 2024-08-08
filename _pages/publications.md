@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 Working papers
 ===============
 
-<h3>[News, Sentiment and Trading]()</h3>
+## [News, Sentiment and Trading]()
 
 Coauthors: Luca Barbaglia and Sebastiano Manzan
 
@@ -19,7 +19,7 @@ Coauthors: Luca Barbaglia and Sebastiano Manzan
 
 <p>&nbsp;</p>
 
-<h3>[Modeling Optimal Strategies in CDS Markets: The Role of Creditor-Issuer Dynamics and Market Condition]()</h3>
+## [Modeling Optimal Strategies in CDS Markets: The Role of Creditor-Issuer Dynamics and Market Condition]()
 
 Coauthors: Suman Banerjee
 
