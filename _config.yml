@@ -21,7 +21,7 @@ repository               : "mkong-finance/mkong-finance.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.png"
+  avatar           : "headshot.PNG"
   name             : "Mingyuan Kong"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate in Finance"
