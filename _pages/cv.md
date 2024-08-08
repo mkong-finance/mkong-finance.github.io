@@ -12,7 +12,7 @@ redirect_from:
 * Ph.D in Finance, Baruch College, The City University of New York, 2025 (expected)
 * M.S. in Financial Engineering, Stevens Institute of Technology, 2017
 
-<h3>Academic Working Experience</h3>
+<h3>Experience</h3>
 * Adjunct Lecturer
   * Baruch College, CUNY, Spring 2021 – Present
   * Department of Information Systems and Statistics, Department of Economics and Finance
