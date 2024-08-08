@@ -18,7 +18,6 @@ Coauthors: Luca Barbaglia and Sebastiano Manzan
 - Nominated for the best doctoral paper at 2024 FMARC
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 <h3>[Modeling Optimal Strategies in CDS Markets: The Role of Creditor-Issuer Dynamics and Market Condition]()</h3>
 
