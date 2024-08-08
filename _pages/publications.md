@@ -28,3 +28,15 @@ Coauthors: Suman Banerjee
 - **Presentations**: 2019 FMA Annual Meeting, 2020 EFA Annual Meeting (cancelled due to Covid-19), 2020 Baruch College Brownbag Seminar, 2021 Stevens Institute of Technology SSB Brownbag, 2022 Indian Statistical Institute-Kolkata Virtual Seminar, 2023 FMA European Conference
 
 
+Works in progress
+===============
+
+## Credit Default Swaps and CEO Compensation
+
+- **Presentations**: 2024 Baruch Winter Ph.D. Research Day
+
+<p>&nbsp;</p>
+
+## CSR Disclosure under
+
+Coauthors: Haozheng Wang
