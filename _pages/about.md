@@ -14,4 +14,4 @@ My research interests include asset pricing, behavioral finance, big data, finan
 
 <h3><em>I will be on the 2024/2025 academic job market!</em></h3>
 
-<h3>Email:</h3>[mingyuan.kong@baruch.cuny.edu](mingyuan.kong@baruch.cuny.edu)
+**Email:** [mingyuan.kong@baruch.cuny.edu](mingyuan.kong@baruch.cuny.edu)
