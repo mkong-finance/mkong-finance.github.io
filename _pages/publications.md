@@ -38,6 +38,6 @@ Works in progress
 
 <p>&nbsp;</p>
 
-## CSR Disclosure under Macroeconomy Uncertainty
+## Macroeconomic Uncertainty, Corporate Social Responsibility, and Firm Characteristics and Cultures
 
 Coauthors: Haozheng Wang
