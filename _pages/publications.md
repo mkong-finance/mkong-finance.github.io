@@ -29,7 +29,7 @@ Coauthors: Suman Banerjee
 
 <p>&nbsp;</p>
 
-## [Macroeconomic Uncertainty, Corporate Social Responsibility, and Firm Characteristics and Cultures]()
+## [Macroeconomic Uncertainty, Corporate Social Responsibility, and Firm Cultures]()
 
 (draft available upon request)
 
