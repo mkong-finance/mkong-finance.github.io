@@ -14,7 +14,7 @@ Coauthors: Luca Barbaglia and Sebastiano Manzan
 
 **Abstract**: We conduct a sentence-level sentiment analysis on idiosyncratic firm news texts and study the texts from three dimensions: sentiment score, news variation, and news coverage. Evidence confirms the findings from literature that high sentiment motivates trading, while we further find that the impact is not linear that neutral sentiment has stronger impact compared to tail sentiments. Neutral sentiment creates more space for divergent expectations and different interpretations of information. We define news variations as standard deviations of sentence sentiments in an article and find that it has significant impact on stock market trading where it increases turnover and volatility. News coverage positively affects trading activities but negatively affects returns. We also find that the impacts from sentiment score, news variations and news coverage are stronger for small firms, while influences are weaker on large firms. Our findings highlight the importance of considering text structure, firm size, and neutral news in understanding the impacts of news.
 
-- **Presentations**: 2023 Baruch College Ph.D. Student Research Symposium, 2023 Baruch College Brownbag Seminar, 2024 FMARC, 2024 EFMA Annual Meeting, 2024 FMA Annual Meeting, 2024 FMA Doctoral Students Consortium, 2024 Generative AI in Finance Conference (Scheduled)
+- **Presentations**: 2023 Baruch College Ph.D. Student Research Symposium, 2023 Baruch College Brownbag Seminar, 2024 FMARC, 2024 EFMA Annual Meeting, 2024 FMA Annual Meeting, 2024 FMA Doctoral Students Consortium, 2024 Generative AI in Finance Conference
 - Nominated for the best doctoral paper at 2024 FMARC
 
 <p>&nbsp;</p>
