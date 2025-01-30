@@ -26,6 +26,7 @@ Coauthors: Suman Banerjee
 **Abstract**: We develop a model to analyze the optimal strategies of creditors and CDS issuers. By establishing conditions that ensure the reservation price of creditors exceeds that of the issuers, we demonstrate the existence of a CDS market. The difference between these reservation prices, influenced by factors such as risk aversion and fundamental uncertainty, plays a crucial role in shaping CDS market dynamics. We find that the issuer’s reservation price increases with the size of their equity position in the reference-entity, and decreases with the diversity of the issuer’s credit-risk portfolio. These findings have implications for the optimal design of CDS markets.
 
 - **Presentations**: 2019 FMA Annual Meeting, 2020 EFA Annual Meeting (cancelled due to Covid-19), 2020 Baruch College Brownbag Seminar, 2021 Stevens Institute of Technology SSB Brownbag, 2022 Indian Statistical Institute-Kolkata Virtual Seminar, 2023 FMA European Conference
+- International Review of Financial Analysis, Revise and Resubmit
 
 <p>&nbsp;</p>
 
@@ -36,6 +37,8 @@ Coauthors: Suman Banerjee
 Coauthors: Haozheng Wang
 
 **Abstract**: We examine the impact of firm characteristics and cultures on corpo- rate social responsibility under macroeconomic uncertainty. Our results suggest that firms increase CSR disclosure transparency under high economic policy uncertainty, with disproportionate responses in different reporting categories. Cost of capital plays the impeding role, while analyst coverage, litigation risk, and dividend payout policy encourage firms to participate in CSR reporting. We highlight the importance of cor- porate cultures in CSR disclosures. Firms with good innovation and quality intend to engage more in CSR reporting, while under macroeconomic uncertainty, integrity, teamwork, respect and quality enhance firms’ capability, allowing firms to respond mildly via CSR reporting.
+
+- **Presentations**: 2025 Baruch-JFQA Climate Finance and Sustainability Conference Ph.D. Poster Session
 
 <p>&nbsp;</p>
 
