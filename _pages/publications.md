@@ -38,7 +38,7 @@ Coauthors: Haozheng Wang
 
 **Abstract**: We examine the impact of firm characteristics and cultures on corpo- rate social responsibility under macroeconomic uncertainty. Our results suggest that firms increase CSR disclosure transparency under high economic policy uncertainty, with disproportionate responses in different reporting categories. Cost of capital plays the impeding role, while analyst coverage, litigation risk, and dividend payout policy encourage firms to participate in CSR reporting. We highlight the importance of cor- porate cultures in CSR disclosures. Firms with good innovation and quality intend to engage more in CSR reporting, while under macroeconomic uncertainty, integrity, teamwork, respect and quality enhance firms’ capability, allowing firms to respond mildly via CSR reporting.
 
-- **Presentations**: 2025 Baruch-JFQA Climate Finance and Sustainability Conference Ph.D. Poster Session
+- **Presentations**: 2025 Baruch-JFQA Climate Finance and Sustainability Conference Ph.D. Poster Session (Scheduled), 2025 FMARC (Scheduled), 2025 EFMA Annual Meeting (Scheduled)
 
 <p>&nbsp;</p>
 
