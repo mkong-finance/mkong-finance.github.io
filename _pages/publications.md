@@ -19,7 +19,7 @@ Coauthors: Luca Barbaglia and Sebastiano Manzan
 
 <p>&nbsp;</p>
 
-## [Modeling Optimal Strategies in CDS Markets: The Role of Creditor-Issuer Dynamics and Market Condition](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4967908)
+## [Modeling Optimal Strategies in CDS Markets: The Role of Creditor-Issuer Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4967908)
 
 Coauthors: Suman Banerjee
 
