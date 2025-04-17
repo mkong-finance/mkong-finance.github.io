@@ -12,7 +12,7 @@ redirect_from:
 I am a Ph.D. candidate in Finance at [Baruch College, The City University of New York](https://www.baruch.cuny.edu/).
 My research interests include asset pricing, behavioral finance, big data, financial economics, and machine learning.
 
-<h3><em>I am on the 2024/2025 academic job market!</em></h3>
+<h3><em>I am on the academic job market!</em></h3>
 
 <p>&nbsp;</p>
 
