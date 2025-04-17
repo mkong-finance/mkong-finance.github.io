@@ -32,4 +32,4 @@ redirect_from:
 
 
 
-Please find [here](https://drive.google.com/file/d/1IIkguh1qiTsVuWMbOC14jc4RUXh9hxOT/view?usp=sharing) an updated and detailed version of my curriculum vitae.
+Please find [here]() an updated and detailed version of my curriculum vitae.
