@@ -14,7 +14,7 @@ redirect_from:
 
 <h3>Experience</h3>
 * Adjunct Lecturer
-  * Baruch College, CUNY, Spring 2021 – Present
+  * Baruch College, CUNY, Spring 2021 – Fall 2024
   * Department of Information Systems and Statistics, Department of Economics and Finance
 
 * Research Assistant
@@ -32,4 +32,3 @@ redirect_from:
 
 
 
-Please find [here]() an updated and detailed version of my curriculum vitae.
