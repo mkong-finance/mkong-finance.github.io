@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+Publications
+===============
+
+1. [Modeling optimal strategies in CDS markets: The role of creditor-issuer dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4967908) with [Suman Banerjee](https://www.stevens.edu/profile/sbanerj2), **International Review of Financial Analysis**, 2025.
+
+
 Working papers
 ===============
 
@@ -19,16 +25,6 @@ Coauthors: Luca Barbaglia and Sebastiano Manzan
 
 <p>&nbsp;</p>
 
-## [Modeling Optimal Strategies in CDS Markets: The Role of Creditor-Issuer Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4967908)
-
-Coauthors: Suman Banerjee
-
-**Abstract**: We develop a model to analyze the optimal strategies of creditors and CDS issuers. By establishing conditions that ensure the reservation price of creditors exceeds that of the issuers, we demonstrate the existence of a CDS market. The difference between these reservation prices, influenced by factors such as risk aversion and fundamental uncertainty, plays a crucial role in shaping CDS market dynamics. We find that the issuer’s reservation price increases with the size of their equity position in the reference-entity, and decreases with the diversity of the issuer’s credit-risk portfolio. These findings have implications for the optimal design of CDS markets.
-
-- **Presentations**: 2019 FMA Annual Meeting, 2020 EFA Annual Meeting (cancelled due to Covid-19), 2020 Baruch College Brownbag Seminar, 2021 Stevens Institute of Technology SSB Brownbag, 2022 Indian Statistical Institute-Kolkata Virtual Seminar, 2023 FMA European Conference
-- International Review of Financial Analysis, Accepted
-
-<p>&nbsp;</p>
 
 ## [Macroeconomic Uncertainty, Corporate Social Responsibility, and Firm Cultures]()
 
