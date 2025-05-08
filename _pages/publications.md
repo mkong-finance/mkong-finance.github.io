@@ -10,6 +10,7 @@ Publications
 
 1. [Modeling optimal strategies in CDS markets: The role of creditor-issuer dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4967908) with [Suman Banerjee](https://www.stevens.edu/profile/sbanerj2), **International Review of Financial Analysis**, 2025.
 
+<p>&nbsp;</p>
 
 Working papers
 ===============
