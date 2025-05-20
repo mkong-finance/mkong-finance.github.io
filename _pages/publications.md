@@ -27,13 +27,13 @@ Coauthors: Luca Barbaglia and Sebastiano Manzan
 <p>&nbsp;</p>
 
 
-## [Macroeconomic Uncertainty, Corporate Social Responsibility, and Firm Cultures]()
+## [CSR Disclosure as Employee Governance: Mitigating Firm Risk during Economic Policy Uncertainty]()
 
 (draft available upon request)
 
 Coauthors: Haozheng Wang
 
-**Abstract**: We examine the impact of firm characteristics and cultures on corpo- rate social responsibility under macroeconomic uncertainty. Our results suggest that firms increase CSR disclosure transparency under high economic policy uncertainty, with disproportionate responses in different reporting categories. Cost of capital plays the impeding role, while analyst coverage, litigation risk, and dividend payout policy encourage firms to participate in CSR reporting. We highlight the importance of cor- porate cultures in CSR disclosures. Firms with good innovation and quality intend to engage more in CSR reporting, while under macroeconomic uncertainty, integrity, teamwork, respect and quality enhance firms’ capability, allowing firms to respond mildly via CSR reporting.
+**Abstract**: We examine whether firms use corporate social responsibility (CSR) disclosure as an employee governance mechanism in response to economic policy uncertainty (EPU). Using a large panel of U.S. firms from 2005 to 2023, we find that firms increase CSR transparency and EPU related keywords during periods of heightened EPU. In return, CSR disclosure is associated with reduced firm idiosyncratic risk during periods of heightened economic uncertainty. We introduce a new mechanism linking EPU and CSR through employee governance by revealing a shift in disclosure emphasis from external, long-horizon topics toward employee-focused content under economic uncertainty. We also find that firms with stronger culture appear to be less reliant on CSR disclosure to manage uncertainty, consistent with a substitution relationship between top-down firm culture and CSR communication. The results are robust to alternative measures of CSR disclosure and policy uncertainty.
 
 - **Presentations**: 2025 Baruch-JFQA Climate Finance and Sustainability Conference Ph.D. Poster Session, 2025 FMARC (Scheduled), 2025 EFMA Annual Meeting (Scheduled)
 
