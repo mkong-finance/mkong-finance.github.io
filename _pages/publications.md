@@ -35,7 +35,7 @@ Coauthors: Haozheng Wang
 
 **Abstract**: We examine whether firms use corporate social responsibility (CSR) disclosure as an employee governance mechanism in response to economic policy uncertainty (EPU). Using a large panel of U.S. firms from 2005 to 2023, we find that firms increase CSR transparency and EPU related keywords during periods of heightened EPU. In return, CSR disclosure is associated with reduced firm idiosyncratic risk during periods of heightened economic uncertainty. We introduce a new mechanism linking EPU and CSR through employee governance by revealing a shift in disclosure emphasis from external, long-horizon topics toward employee-focused content under economic uncertainty. We also find that firms with stronger culture appear to be less reliant on CSR disclosure to manage uncertainty, consistent with a substitution relationship between top-down firm culture and CSR communication. The results are robust to alternative measures of CSR disclosure and policy uncertainty.
 
-- **Presentations**: 2025 Baruch-JFQA Climate Finance and Sustainability Conference Ph.D. Poster Session, 2025 FMARC (Scheduled), 2025 EFMA Annual Meeting (Scheduled)
+- **Presentations**: 2025 Baruch-JFQA Climate Finance and Sustainability Conference Ph.D. Poster Session, 2025 FMARC, 2025 EFMA Annual Meeting
 
 <p>&nbsp;</p>
 
