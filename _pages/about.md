@@ -9,8 +9,8 @@ redirect_from:
 
 <h2>Welcome to my personal website!</h2>
 
-I am a Ph.D. candidate in Finance at [Baruch College, The City University of New York](https://www.baruch.cuny.edu/).
-My research interests include asset pricing, behavioral finance, big data, financial economics, and machine learning.
+I received my Ph.D. in Finance from [Baruch College, The City University of New York](https://www.baruch.cuny.edu/) in 2025.
+My research interests include empirical asset pricing, behavioral finance, textual analysis in finance, big data, financial economics, and machine learning.
 
 
 <p>&nbsp;</p>
