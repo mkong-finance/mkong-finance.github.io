@@ -26,7 +26,7 @@ redirect_from:
   
 * Research Assistant
   * Stevens Institute of Technology, August 2017 - June 2018
-  * Hanlon Financial Systems Center, School of Business
+  * Hanlon Financial Systems Center
 
 
 
