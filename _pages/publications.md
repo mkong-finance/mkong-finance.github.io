@@ -27,7 +27,7 @@ Coauthors: Luca Barbaglia and Sebastiano Manzan
 <p>&nbsp;</p>
 
 
-## [CSR Disclosure as Employee Governance: Mitigating Firm Risk during Economic Policy Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5165373).
+## [CSR Disclosure as Employee Governance: Mitigating Firm Risk during Economic Policy Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5165373)
 
 Coauthor: Haozheng Wang
 
