@@ -37,14 +37,6 @@ Coauthor: Haozheng Wang
 
 <p>&nbsp;</p>
 
-Works in progress
-===============
-
-## Credit Default Swaps and CEO Compensation
-
-Coauthors: Suman Banerjee
-
-- **Presentations**: 2024 Baruch Winter Ph.D. Research Day
 
 <p>&nbsp;</p>
 
