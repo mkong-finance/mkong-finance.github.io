@@ -27,11 +27,11 @@ Coauthors: Luca Barbaglia and Sebastiano Manzan
 <p>&nbsp;</p>
 
 
-## [CSR Disclosure as Employee Governance: Mitigating Firm Risk during Economic Policy Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5165373)
+## [CSR Disclosure and Employee Governance during Economic Policy Uncertainty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5165373)
 
 Coauthor: Haozheng Wang
 
-**Abstract**: We examine whether firms use corporate social responsibility (CSR) disclosure as an employee governance mechanism in response to economic policy uncertainty (EPU). Using a large panel of U.S. firms from 2005 to 2023, we find that firms increase CSR transparency and EPU related keywords during periods of heightened EPU. In return, CSR disclosure is associated with reduced firm idiosyncratic risk during periods of heightened economic uncertainty. We introduce a new mechanism linking EPU and CSR through employee governance by revealing a shift in disclosure emphasis from external, long-horizon topics toward employee-focused content under economic uncertainty. We also find that firms with stronger culture appear to be less reliant on CSR disclosure to manage uncertainty, consistent with a substitution relationship between top-down firm culture and CSR communication. The results are robust to alternative measures of CSR disclosure and policy uncertainty.
+**Abstract**: We examine whether the content of corporate social responsibility (CSR) disclosure is consistent with an internal employee-governance role when economic policy uncertainty (EPU) rises. Using a panel of U.S. public firms from 2013 to 2023 and FinBERT-based analysis of corporate responsibility reports, we document three findings. First, firms expand CSR disclosure transparency when policy uncertainty rises, and the expanded disclosure contains more uncertainty-related language. Second, firms reallocate attention within reports toward employee-related topics, with offsetting declines in externally oriented domains such as climate and community. This shift is stronger among employee-intensive firms. Third, employee-oriented disclosure is associated with more favorable subsequent employee perceptions when uncertainty is high, with results robust to state-level EPU, year fixed effects, two-way clustering, and controls for contemporaneous CSR activity. Our evidence suggests that CSR communication under uncertainty has an internal dimension directed at employees.
 
 - **Presentations**: 2025 Baruch-JFQA Climate Finance and Sustainability Conference Ph.D. Poster Session, 2025 FMARC, 2025 EFMA Annual Meeting, 2026 SWFA Annual Meeting, 2026 Journal of Accounting, Auditing and Finance Symposium (International), 2026 FMA European Conference
 
